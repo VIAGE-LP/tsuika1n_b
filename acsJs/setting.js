@@ -65,7 +65,7 @@ const SETTING_CHANGE_PRODUCT_CYCLE  = '';
 // - SETTING_PROMOTION_CODE
 //  => 使用する販促コードを指定する
 // **************************************************
-const SETTING_PROMOTION_CODE = 'tsuika1n_b';
+const SETTING_PROMOTION_CODE = 'Viage1n';
 
 // **************************************************
 // 商品プルダウンに表示される商品を設定する
